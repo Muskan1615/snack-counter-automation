@@ -29,7 +29,7 @@ src/
     HRService.ts            — simulated HR reimbursement system
   index.ts                  — demo run
 tests/
-  refill.test.ts            — 9 tests covering the 3 required rules
+  refill.test.ts            — 30 tests covering the 3 required rules + edge cases
 design-doc.md               — 2-page design document
 ```
 
