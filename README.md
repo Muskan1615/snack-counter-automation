@@ -41,7 +41,7 @@ design-doc.md               — 2-page design document
 ✓ Rule 3 — budgets and totals are correct across both currencies (4 tests)
 ✓ Happy path — full refill lifecycle (1 test)
 
-9 tests, 0 failures
+30 tests, 0 failures
 ```
 
 See [design-doc.md](./design-doc.md) for the full design, trade-offs, and what was deliberately not built.

@@ -99,6 +99,6 @@ Wraps the external HR reimbursement API. Accepts `(employeeId, amount, currency,
 # Demo run (shows full lifecycle)
 tsx src/index.ts
 
-# Tests (9 tests, 0 failures)
+# Tests (30 tests, 0 failures)
 tsx --test tests/refill.test.ts
 ```
