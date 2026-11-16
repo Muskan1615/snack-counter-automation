@@ -1,0 +1,12 @@
+{
+  "name": "snack-counter-automation",
+  "version": "1.0.0",
+  "description": "Framsikt Snack Counter Automation — Phase 1 Assignment",
+  "scripts": {
+    "test": "node --import tsx/esm --test tests/*.test.ts 2>/dev/null || tsx --test tests/*.test.ts 2>/dev/null || node --require ts-node/register --test tests/*.test.ts",
+    "start": "tsx src/index.ts"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
